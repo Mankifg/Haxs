@@ -1,7 +1,7 @@
 # Instalations
 Install Tampermonkey (https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
 Click add new script
-Paste main.txt
+Paste main.txt (https://raw.githubusercontent.com/Mankifg/Haxs/main/main.txt)
 Don't abuse
 
 
